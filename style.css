@@ -1,0 +1,42 @@
+h1{
+  background-color: rgb(88, 88, 234);
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+}
+h2{
+  background-color: rgb(88, 88, 234);
+  color: bisque;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+  color: blue;
+}
+
+a:hover{
+  color: rgb(116, 112, 206);
+}
+
+#cidade{
+  font-size: small;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+
+.imagem{
+  font-size: smaller;
+  font-style: oblique;
+}
+
+footer{
+  text-decoration: underline wavy;
+  font-size: x-small;
+}
+
+#facul{
+  text-decoration: underline double;
+}
+
+.hob{
+  text-decoration: underline dotted;
+}
